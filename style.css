@@ -1,0 +1,19 @@
+body {
+  background-color: #e3ecf2;
+}
+
+table {
+  border: 1px;
+  border-color: #a4c0d6;
+}
+
+thead {
+  font-size: 90%;
+  font-weight: 700;
+}
+
+tbody {
+  font-size: 50%;
+
+  font-weight: 400;
+}
